@@ -95,8 +95,8 @@ I’ve led teams, architected systems from scratch, modernized legacy platforms,
 
 ## 🎓 Education
 
-- **Software Design & Networks Management**  
-  Universidad del Valle de México *(2023 – 2027)*
+- **Computational Engineering**  
+  CONAIP *(2025)*
 
 - **Mechatronics Engineering**  
   UPIITA – IPN *(2012 – 2017)*
